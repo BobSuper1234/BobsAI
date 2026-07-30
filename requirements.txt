@@ -1,1 +1,6 @@
+yeah so there is SOME requirements with this of course
 
+REQUIREMENTS:
+Python (3.1+) or higher (python 3.11, 3.12, 3.13+)
+
+Press Windows + R, then type CMD and RUN this exactly; llama-cpp-python
