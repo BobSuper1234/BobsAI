@@ -1,3 +1,11 @@
 Please ensure you have the requirements for this to proprely work!
 
 BobsAI is designed to use local AI easily, since it runs on your computer (LOCAL) there is no limits, no stupid credits or quotas aswell.
+
+
+At the moment, BobsAI only has a language model
+that is lower using on resources,
+You need atleast 2-4GB RAM and 2+ GB vRAM on your GPU
+(Ram usage (700MB~))
+(VRAM usage (700-100MB~))
+this is the 0.5b qwen model
