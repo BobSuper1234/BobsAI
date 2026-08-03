@@ -1,16 +1,91 @@
-Please ensure you have the requirements for this to proprely work!
+BobsAI
 
-BobsAI is designed to use local AI easily, since it runs on your computer (LOCAL) there is no limits, no stupid credits or quotas aswell.
+BobsAI is designed to make running local AI simple and accessible.
 
+Because BobsAI runs directly on your computer (LOCAL), there are no cloud limits, subscriptions, credits, or usage quotas.
 
-At the moment, BobsAI only has a language model
-that is lower using on resources,
-You need atleast 2-4GB RAM and 2+ GB vRAM on your GPU
-(Ram usage (700MB~))
-(VRAM usage (700-1000MB~))
-this is the 0.5b qwen model
-(This also makes BobsAI to a chat-only AI, for now)
-however i have planned many things, such as a coding agent!
-it will work like any coding agent, such as antigravity!
-This project is constantly being worked on
-so soon there will be more features!
+Requirements
+
+Please ensure your system meets the requirements before installing BobsAI.
+
+Currently, BobsAI uses a lightweight language model designed to use fewer resources.
+
+Recommended minimum:
+
+* RAM: 2-4GB+
+* GPU VRAM: 2GB+
+* Model: Qwen 2.5 0.5B (quantized)
+
+Approximate usage:
+
+* RAM usage: ~700MB+
+* VRAM usage: ~700-1000MB+
+
+At the moment, BobsAI is a chat-only AI assistant.
+
+More capabilities are planned for future releases.
+
+⸻
+
+Features
+
+Currently available:
+
+* Local AI chat
+* Runs directly on your computer
+* No cloud restrictions
+* No credits or quotas
+* Lightweight AI model support
+
+⸻
+
+Roadmap
+
+BobsAI 0.0.2 (In Development)
+
+Planned features:
+
+* Improved bootstrapper system
+* BobsAI installer manager
+* Update system
+* Backup system
+* Uninstall option
+* Better installation logging
+* Version tracking
+* Improved transparency and safety notices
+
+⸻
+
+BobsAI 0.0.3
+
+Planned features:
+
+* Repair system
+* Better file verification
+* Improved progress displays
+* More installation tools
+* More quality-of-life improvements
+
+⸻
+
+Future Features
+
+Planned long-term features:
+
+* Coding agent functionality
+* Ability to assist with programming tasks
+* More advanced AI tools
+* More model support
+* Additional local AI capabilities
+
+The goal is to make BobsAI a powerful local AI assistant that gives users control over their own AI.
+
+⸻
+
+Development
+
+BobsAI is actively being worked on and improved.
+
+Features, improvements, and fixes will continue to be added over time.
+
+thank you chat gpt for some addituons to the readme :)
