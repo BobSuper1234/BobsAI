@@ -1,9 +1,10 @@
 @echo off
 title BobAI Launcher
 
-echo ==========================
-echo        BobAI
-echo ==========================
+echo //////////////////////////
+echo |       <BobsAI>         |
+echo \\\\\\\\\\\\\\\\\\\\\\\\\\
+echo now with cooler launcher <> :)
 echo.
 
 python chatbot.py
