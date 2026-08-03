@@ -1,19 +1,19 @@
 {
-    "name": "BobAI",
-    "version": "1.0",
-    "creator": "BobSuper1234",
-    "prefix": "BobAI",
-    "personality": "friendly",
-    "enable_memory": true,
-    "enable_commands": true
-}
-//
-// holy fuch using JSONs are so
-// stupid, will change that, modifiable af
-//like lemme just do
-// {
-//    "personality": "extremely evil"
-// }
+    "model": "qwen2.5-0.5b-q4.gguf",
+    "theme": "dark",
 
-// yes adding info and how it should behave will be added
-// in a good way some time
+    "stream_responses": true,
+    "save_chat_history": true,
+    "save_memory": true,
+
+    "memory_file": "memory.json",
+    "models_folder": "models",
+
+    "show_startup_info": true,
+    "show_thinking": false,
+
+    "auto_check_updates": false,
+    "debug_mode": false
+}
+
+//enhanced to be realistic
