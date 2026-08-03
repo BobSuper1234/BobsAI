@@ -4,7 +4,9 @@ REQUIREMENTS:
 Python (3.1+) or higher (python 3.11, 3.12, 3.13+)
 (https://www.python.org)
 
-Press Windows + R, then type CMD, press enter and once cmd has openedRUN this exactly; pip install llama-cpp-python
+Press Windows + R, then type CMD, press enter 
+and once cmd has opened RUN this exactly;
+pip install llama-cpp-python
 
 
 Your current BobsAI version;
