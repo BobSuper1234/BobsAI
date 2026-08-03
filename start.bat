@@ -1,5 +1,5 @@
 @echo off
-title BobAI Launcher
+title BobsAI Launcher V2
 
 echo //////////////////////////
 echo |       <BobsAI>         |
