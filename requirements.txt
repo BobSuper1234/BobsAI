@@ -10,4 +10,5 @@ pip install llama-cpp-python
 
 
 Your current BobsAI version;
-0.0.1-HotFix1
+0.0.1-HotFix2
+
