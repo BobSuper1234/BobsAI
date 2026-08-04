@@ -3,8 +3,9 @@ from ai.engine import BobBrain
 
 brain = BobBrain()
 
-print("BobAI online!")
-print("Type exit to close.\n")
+if brain.settings["show_startup_info"]:
+    print("BobAI online!")
+    print("Type exit to close.\n")
 
 
 while True:
@@ -12,6 +13,7 @@ while True:
     user = input("You: ")
 
     if user.lower() == "exit":
+        print("Closing BobAI...")
         break
 
     answer = brain.chat(user)
